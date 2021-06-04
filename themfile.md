@@ -19,3 +19,7 @@ v7 tui muon push may dong nay len git remote newremote
 v8 tui muon push may dong nay len git origin
 
 v9 tui ghi dong nay de push commit A
+
+v10 tui ghi dong nay de push commit WIP
+
+v11 tui ghi dong nay sau khi thay doi commit WIP
