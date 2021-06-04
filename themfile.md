@@ -17,3 +17,5 @@ v6 tui ghi may dong nay tren vscode branch themfile2
 v7 tui muon push may dong nay len git remote newremote
 
 v8 tui muon push may dong nay len git origin
+
+v9 tui ghi dong nay de push commit A
