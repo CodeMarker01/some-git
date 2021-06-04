@@ -10,3 +10,5 @@ v4 may dong nay tui ghi tren vscode
 v4 may dong nay tui ghi tren github
 
 v5 tui ghi may dong nay tren vscode branch themfile2
+
+v6 tui ghi may dong nay tren vscode branch main
